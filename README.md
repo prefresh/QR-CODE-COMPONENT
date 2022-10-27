@@ -1,5 +1,7 @@
 # Frontend Mentor - QR code component
 
+## Url[Live Site](https://prefresh.github.io/QR-CODE-COMPONENT/)
+
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
